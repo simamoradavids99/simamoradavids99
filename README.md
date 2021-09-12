@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simamoradavids99
-- 👀 I’m interested in Web Development especially frontend
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on web development project
+- 👀 I’m interested in Data Science and Web Development especially frontend
+- 🌱 I’m currently learning Javascript and Python
+- 💞️ I’m looking to collaborate on web development and Machine Learning project 
 - 📫 How to reach me : emaail : davidsimamora007@gmail.com
 
 <!---
